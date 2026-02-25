@@ -3,3 +3,4 @@ __pycache__/
 .env
 analysis.db
 data/
+celerybeat-schedule
